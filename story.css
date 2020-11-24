@@ -1,0 +1,11 @@
+.images{
+  display: block;
+  width:150px;
+}
+#head{
+  color:red;
+}
+#main{
+  align-items:center;
+  color:green;
+}
